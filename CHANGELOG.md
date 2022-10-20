@@ -1,3 +1,16 @@
+# [5.2.0](https://github.com/bigcommerce/paper-handlebars/compare/v5.1.7...v5.2.0) (2022-10-20)
+
+
+### Bug Fixes
+
+* STRF-10157 Fix build job: npm ci -> npm i ([#215](https://github.com/bigcommerce/paper-handlebars/issues/215)) ([b07157c](https://github.com/bigcommerce/paper-handlebars/commit/b07157c7a52a1ac8da3e369ea0c6a792f61246af))
+* STRF-10157 Fix semantic release: added missing dependency ([#216](https://github.com/bigcommerce/paper-handlebars/issues/216)) ([3cf3f16](https://github.com/bigcommerce/paper-handlebars/commit/3cf3f16233ad22b413c55c2b59e78361d2cf0510))
+
+
+### Features
+
+* STRF-10157 Introduce semantic release in repo ([#213](https://github.com/bigcommerce/paper-handlebars/issues/213)) ([b692bc7](https://github.com/bigcommerce/paper-handlebars/commit/b692bc7b494b985836dafb493d8c4173afb52cd9))
+
 # Changelog
 
 ## Unreleased
